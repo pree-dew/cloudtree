@@ -1,2 +1,2 @@
-# go-cloud-tree
-A tree structure for your cloud resource, to querysystem's information faster.
+# cloud-resource-tree
+A tree of cloud resources, to find details about them easily
